@@ -1,0 +1,21 @@
+product_id,product_name,category,material,recycled_pct,repairable,recyclable,country,brand
+THR-001,Basic T-Shirt,T-shirt,Cotton,0,True,True,Bangladesh,H&M
+THR-002,Recycled Tee,T-shirt,Recycled polyester,100,True,True,Vietnam,Uniqlo
+THR-003,Cotton Blend Shirt,Shirt,Cotton + polyester,30,True,False,India,Zara
+THR-004,Linen Shirt,Shirt,Linen,0,True,True,Portugal,Demo
+THR-005,Wool Sweater,Sweater,Wool,0,True,True,Australia,Demo
+THR-006,Poly Hoodie,Hoodie,Polyester,0,False,False,China,Demo
+THR-007,Organic Cotton Top,Top,Organic cotton,100,True,True,Turkey,Demo
+THR-008,Denim Jeans,Jeans,Cotton + elastane,0,True,False,Pakistan,Demo
+THR-009,Recycled Denim,Jeans,Recycled cotton + cotton,40,True,True,Italy,Demo
+THR-010,Nylon Jacket,Outerwear,Nylon,0,False,False,China,Demo
+THR-011,Hemp Tee,T-shirt,Hemp + cotton,20,True,True,India,Demo
+THR-012,Viscose Dress,Dress,Viscose,0,True,True,Indonesia,Demo
+THR-013,Poly Dress,Dress,Polyester,0,False,True,Vietnam,Demo
+THR-014,Wool Coat,Outerwear,Wool,0,True,True,Romania,Demo
+THR-015,Cotton Skirt,Skirt,Cotton,0,True,True,India,Demo
+THR-016,Acrylic Sweater,Sweater,Acrylic,0,False,False,China,Demo
+THR-017,Recycled Fleece,Fleece,Recycled polyester,100,True,True,Taiwan,Demo
+THR-018,Silk Blouse,Blouse,Silk,0,True,True,China,Demo
+THR-019,Cotton Joggers,Bottom,Cotton,0,True,True,Pakistan,Demo
+THR-020,Poly Leggings,Bottom,Polyester + elastane,0,False,False,Sri Lanka,Demo
